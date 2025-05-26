@@ -11,7 +11,7 @@ I make projects using python & django.
 
 ### 🚀 Status
 + I’m currently learning - django.
-+ Happy to work on collaborative project using python or django or tkinter.
++ Happy to work on collaborative project using python or django or tkinter.  -2021
 
 ---
 
